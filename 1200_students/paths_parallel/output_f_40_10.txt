@@ -1,0 +1,1 @@
+students file: ../1200_students/f_students.txt, start: 06:30:00, end: 23:59:00, N: 50
